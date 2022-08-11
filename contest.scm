@@ -277,7 +277,4 @@
 )
 
 
-
-; Please leave this last line alone.  You may add additional procedures above
-; this line.
 (draw)
