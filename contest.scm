@@ -1,14 +1,3 @@
-;;; Scheme Recursive Art Contest Entry
-;;;
-;;; Please do not include your name or personal info in this file.
-;;;
-;;; Title: Dan The Penguin from VALORANT
-;;;
-;;; Description:
-;;;   The one and only, Dan The Penguin
-;;;   (also known as pengun) from Riot Games
-;;;   VALORANT!
-
 (define (draw)
   ; YOUR CODE HERE
     ; draw the hat
